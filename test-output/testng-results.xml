@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13598" started-at="2022-01-05T15:05:19Z" finished-at="2022-01-05T15:05:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13598" started-at="2022-01-05T15:05:19Z" finished-at="2022-01-05T15:05:32Z">
+      <class name="SimpliLearn.sportsshoes.driverLaunch">
+        <test-method status="PASS" signature="testcase_Driverclass()[pri:0, instance:SimpliLearn.sportsshoes.driverLaunch@e45f292]" name="testcase_Driverclass" duration-ms="13570" started-at="2022-01-05T15:05:19Z" finished-at="2022-01-05T15:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase_Driverclass -->
+      </class> <!-- SimpliLearn.sportsshoes.driverLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
